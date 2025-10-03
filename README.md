@@ -1,18 +1,1 @@
-<h3 align="center">
-  <span style="font-family:monospace;">
-    <span id="typewriter"></span>
-  </span>
-</h3>
-
-<script>
-  const text = "hi there , im shahd";
-  let i = 0;
-  function typing() {
-    if (i < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typing, 150);
-    }
-  }
-  typing();
-</script>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=hi+there+,+im+shahd)](https://git.io/typing-svg)
