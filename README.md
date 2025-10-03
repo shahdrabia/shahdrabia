@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=hi+there+,+im+shahd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=hi+there+,+i'm+shahd)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me
  I’m a flutter developer .
