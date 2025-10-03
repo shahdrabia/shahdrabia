@@ -5,6 +5,6 @@
 I specialize in moble application develompent , I’m passionate about building user-friendly, modern, 
 and efficient applications that provide great experiences for end users
 
-- Currently advancing my skills in **Flutter** and exploring **Firebase** for real-world app development  
+- Currently advancing my skills in **Flutter** and integrating with **APIs**  for real-world app development  
 -  Passionate about crafting intuitive and visually appealing **mobile app designs** with a focus on **UI/UX**  
 - Open to collaborating on impactful and **user-friendly mobile projects** that make a difference  
