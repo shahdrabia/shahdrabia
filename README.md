@@ -11,5 +11,4 @@ and efficient applications that provide great experiences for end users
 - Open to collaborating on impactful and **user-friendly mobile projects** that make a difference  
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/shahdrabia)  
-- 
+- <a href="www.linkedin.com/in/shahdrabia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
