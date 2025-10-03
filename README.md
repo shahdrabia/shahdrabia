@@ -1,38 +1,23 @@
-## Hi there 👋
-I’m shahd , a web developer with a strong focus on front-end and back-end development using HTML, CSS, and PHP. I enjoy building responsive, user-friendly websites and turning design concepts into fully functional digital experiences. With a passion for clean code and structured development, I’m always looking to improve my skills and explore new technologies. Whether working on static sites or dynamic web applications, I strive to create efficient and engaging solutions for real-world needs.
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-## Education 🏫
+<div align="center" width="50">
 
- -Faculty of Computers and Artificial Intelligence, Benha University
-Expected Graduation: 2027
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-## skills 
-Technical: HTML, CSS, JavaScript, PHP, MySQL,
- OOP, Flutter, Dart, C++
- 
- Soft Skills: Problem Solving, Teamwork, Communication, Fast Learner
+</div>
 
-## projects  🥇
-hospital management system | Java,intelliJ IDEA -
-• Developed an management system for a hospital to manage patient history , employee information ,etc. using java
-• used GUI to implement the user interface and my SQL to implement the database of the system
-• created an ERD for the system to explain the system and its working concept more clearly.
+Hi , I’m shahd a flutter developer . I specialize in moble application develompent ,
+I’m passionate about building user-friendly, modern,and efficient applications that provide great experiences for end-user.
 
-calculator | flutter, Android Studio -
-• Created an Android application using flutter and Android Studio for basic arithmetic operations.
-• Allows users to select items, view prices, and make virtual purchases through an interactive UI.
-• Focused on clean UI/UX design, efficient state management using Provider, and responsive layouts.
 
-messenger application | flutter ,Android Studio -
-• Built a real-time messaging app using Flutter and Firebase for seamless communication.
-• Implemented online status, message read receipts, and typing indicators for enhanced UX
-• Focused on clean UI/UX design, efficient state management using Provider, and responsive layouts.
+<div align="center">
 
-counter | logical design,proteus -
-• Designed a digital counter circuit using logic gates and wiring as part of the ( Logical design) course.
-• Implemented the counter using flip-flops, AND/OR gates, and clock signals to increment values.
-• Simulated the design using digital logic software to test functionality and timing accuracy.
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
- ## contact me  📱
-Email:shahdrabia12@gmail.com 
-linkedIn:www.linkedin.com/in/shahd-rabia-1478b729a
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</div>
+
+
