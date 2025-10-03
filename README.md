@@ -1,22 +1,18 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h3 align="center">
+  <span style="font-family:monospace;">
+    <span id="typewriter"></span>
+  </span>
+</h3>
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-Hi , I’m shahd a flutter developer . I specialize in moble application develompent ,
-I’m passionate about building user-friendly, modern,and efficient applications that provide great experiences for end-user.
-
-
-<div align="center">
-
-
-<i>Follow me:</i><br>
-
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</div>
-
-
+<script>
+  const text = "hi there , im shahd";
+  let i = 0;
+  function typing() {
+    if (i < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typing, 150);
+    }
+  }
+  typing();
+</script>
