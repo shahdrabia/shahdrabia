@@ -12,7 +12,7 @@ I’m passionate about building user-friendly, modern,and efficient applications
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)]
 
 <i>Follow me:</i><br>
 
